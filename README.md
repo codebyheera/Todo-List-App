@@ -51,5 +51,12 @@ Follow this simple step to run the app locally:
    ```bash
    git clone https://github.com/codebyheera/Todo-List-App.git
 
+## 🌐 Optional: Run with a Live Server (Recommended)
+For a smoother development and testing experience, you can run the app on a local web server:
+- If you use VS Code, install the Live Server extension. <br>
+- Open the project folder in VS Code. <br>
+- Right-click the index.html file and select Open with Live Server. <br>
+- The app will open in your browser with live reload support, so any changes you make will update instantly. <br>
+
 👤 Author ~ Muhammad Subhan Naeem <br>
 Built with ❤️ by Heera | github.com/codebyheera
