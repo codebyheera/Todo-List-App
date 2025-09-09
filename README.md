@@ -43,7 +43,7 @@ Welcome to **My TO-DO List**, a sleek and intuitive to-do app built using **HTML
 
 ## 📦 How to Use
 
-Follow this simple step to run the app locally:
+Follow these simple steps to run the app locally:
 
 ### 🔧 Manual Setup
 
